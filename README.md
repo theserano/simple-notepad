@@ -1,0 +1,1 @@
+a simple notepad app that helps users to take notes ogf certain key points
